@@ -12,3 +12,6 @@ The project will done in the following steps:
 5. Set up monitoring
 6. Build a retraining pipeline
 7. Document the process
+
+
+
